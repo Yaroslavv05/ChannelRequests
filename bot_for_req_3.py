@@ -33,7 +33,7 @@ def get_userids():
 
 bot = Bot(token='6119543685:AAETZdyONdxMLuQLpSSKoBslXd_oSPNFyLU')
 storage = MemoryStorage()
-CHANNEL_ID = -1875734187
+CHANNEL_ID = -1001875734187
 dp = Dispatcher(bot, storage=storage)
 
 
